@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dhivehi-unicode
+Version: 1.0.1
+Summary: Python Dhivehi (Thaana) ASCII, accent to unicode converter
+Home-page: UNKNOWN
+Author: Mohamed Ismail (medo)
+Author-email: <modeissey@gmail.com>
+License: UNKNOWN
+Description: Python package to convert Dhivehi (Thaana) ASCII and accent text to Unicode
+Keywords: Dhivehi,Thaana
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

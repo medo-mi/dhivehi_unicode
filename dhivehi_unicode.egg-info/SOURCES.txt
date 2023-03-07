@@ -1,0 +1,8 @@
+README.md
+setup.py
+dhivehi_unicode/__init__.py
+dhivehi_unicode/unicode.py
+dhivehi_unicode.egg-info/PKG-INFO
+dhivehi_unicode.egg-info/SOURCES.txt
+dhivehi_unicode.egg-info/dependency_links.txt
+dhivehi_unicode.egg-info/top_level.txt

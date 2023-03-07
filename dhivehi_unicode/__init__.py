@@ -1,0 +1,1 @@
+from dhivehi_unicode.unicode import DhivehiConverter
