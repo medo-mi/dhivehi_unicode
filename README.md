@@ -2,6 +2,12 @@
 
 Python package to convert Dhivehi (Thaana) ASCII and accent text to Unicode
 
+### Install
+
+```
+pip install dhivehi-unicode
+```
+
 ### accent_to_unicode
 ```Python
 from  dhivehi_unicode  import  DhivehiConverter  as  dv
